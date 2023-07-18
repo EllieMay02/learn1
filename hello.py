@@ -13,6 +13,6 @@ def discounted(price, discount, max_discount=50):
 discounted(100, -50)
 print(discounted(-300, 5))
 discounted(231, 111,)
-
+ if i am sosiska sosi ipipisky
 
           
